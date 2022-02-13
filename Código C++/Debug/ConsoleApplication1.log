@@ -1,0 +1,48 @@
+﻿Build started 29/06/2018 06:03:53 p.m..
+     1>Project "C:\Users\Alumno\Desktop\Tp final version 2\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Tecnico.cpp
+         Main.cpp
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(340): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(349): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(359): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(368): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(378): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(387): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(400): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(439): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(455): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(472): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(473): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\funciones.h(485): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         Tecnico.cpp
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(36): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(44): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(53): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(65): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(74): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(85): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\alumno\desktop\tp final version 2\consoleapplication1\tecnico.cpp(94): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alumno\Desktop\Tp final version 2\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Alumno\Desktop\Tp final version 2\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alumno\Desktop\Tp final version 2\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\Calendario.obj
+         Debug\CuentaCorriente.obj
+         Debug\Dimension.obj
+         Debug\ECG.obj
+         Debug\Empleado.obj
+         Debug\Equipo.obj
+         Debug\Fecha.obj
+         Debug\Gerente.obj
+         Debug\Main.obj
+         Debug\Mantenimiento.obj
+         Debug\MDA.obj
+         Debug\RSP.obj
+         Debug\Tecnico.obj
+         ConsoleApplication1.vcxproj -> C:\Users\Alumno\Desktop\Tp final version 2\Debug\ConsoleApplication1.exe
+     1>Done Building Project "C:\Users\Alumno\Desktop\Tp final version 2\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.80
